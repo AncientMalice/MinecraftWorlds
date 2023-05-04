@@ -1,0 +1,41 @@
+
+[
+	
+	{
+		"pack_id" : "a2979f0d-98ac-4bda-8836-4c45c1c0e093",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "5f9f2b11-ea0a-4832-ae2e-9dfb4525211d",
+		"subpack" : "Glowing Ores Dim",
+		"version" : [ 2, 2, 0 ]
+	},
+	
+	{
+		"pack_id" : "3f8f56f1-476c-4e5c-8250-fcc842b5c28f",
+		"subpack" : "Fancy Grass Full",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "e809feb8-822e-4e1d-87ae-7601bb1d9874",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "c1e63b60-0967-4188-ab87-4490c75e08ca",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "87942252-6e37-4658-8635-48f0ce23ba02",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "e7fba840-ce5b-4811-be0c-372040ff66d8",
+		"subpack" : "Normal Fog",
+		"version" : [ 3, 2, 0 ]
+	}
+]
