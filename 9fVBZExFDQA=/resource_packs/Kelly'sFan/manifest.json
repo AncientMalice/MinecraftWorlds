@@ -1,0 +1,32 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is meant to simulate Optfine's 'Fancy Grass' somewhat, by making the sides of grass blocks all grass! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §oFancy §r§aGrass §fAddon",
+        "uuid": "3f8f56f1-476c-4e5c-8250-fcc842b5c28f",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "18f0575c-f660-47a1-b084-e25ec46faabe",
+            "version": [2, 0, 0]
+        }
+	],
+  "subpacks": [
+    {
+      "folder_name": "Fancy Grass Cut",
+      "name": "(§l§oGrass Side W/Trim§r)This setting makes it so that the grass is trimmed at the bottom, leaving a little bit of exposed dirt.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "Fancy Grass Full",
+      "name": "(§l§oGrass Side Fully Covered§r)This setting makes it so the entire side of the grass block is nothing but grass!",
+      "memory_tier": 1
+    }
+  ],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}

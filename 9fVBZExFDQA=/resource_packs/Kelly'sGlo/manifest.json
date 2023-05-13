@@ -1,0 +1,32 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Makes all of the ores glow! So you can see em' easier! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §eGlowing §bO§cr§ae§9s §fAddon 2.2",
+        "uuid": "5f9f2b11-ea0a-4832-ae2e-9dfb4525211d",
+        "version": [2, 2, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "fe64ba29-f600-4b29-a6d6-d0d9c69f62a0",
+            "version": [2, 2, 0]
+        }
+	],
+  "subpacks": [
+    {
+      "folder_name": "Glowing Ores Bright",
+      "name": "(§l§oSuper Bright Ore Brightness§r)This setting is just a fun one, it makes the ores glow incredibly bright",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "Glowing Ores Dim",
+      "name": "(§l§oNormal Ore Brightness§r)This setting is the default setting for ore brightness, this one is reccomended for normal gameplay.",
+      "memory_tier": 1
+    }
+  ],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}

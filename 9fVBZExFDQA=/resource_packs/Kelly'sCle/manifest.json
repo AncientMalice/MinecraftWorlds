@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Use this if you prefer the featureless glass!! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §oClear§r Glass Addon",
+        "uuid": "c1e63b60-0967-4188-ab87-4490c75e08ca",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "f1ea81a1-28f7-40b3-88f1-b5ef95cf8be1",
+            "version": [2, 0, 0]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}

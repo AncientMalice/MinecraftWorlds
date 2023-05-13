@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.iron_golem": {
+      "arrays": {
+        "textures": {
+          "Array.cracks": [
+            "Texture.cracked_high",
+            "Texture.cracked_med",
+            "Texture.cracked_low",
+            "Texture.cracked_none"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "textures": [ "Array.cracks[math.clamp(query.health / 25, 0, 3)]" ]
+    }
+  }
+}
+
+// Debug note
+
+//Fixed [Animation][error]-entity/iron_golem.json | minecraft:client_entity | description | "animation.controller" | "child animation_controllers not valid here"
+// V.1 - V.3 
+//Fixed [Animation][error]-minecraft:iron_golem | "Error can't find {animation move}"
+// V.3
+
+// Required "Custom texture"! NOT WORKING WITHOUT CUSTOM TEXTURE AND REQUIRED MCBE VERSION "1.18.10 or more"!
+
+// Edited by Alegzzis & Winz1234 for Kelly's RTX 2.1 & Nostalgia RTX Beta 3.0
+// V.5.1

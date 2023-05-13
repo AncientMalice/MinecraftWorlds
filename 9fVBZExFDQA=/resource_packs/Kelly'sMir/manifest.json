@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This turns the tinted glass into a mirror! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §oMirror§r Addon",
+        "uuid": "a2979f0d-98ac-4bda-8836-4c45c1c0e093",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "50f24f08-03e2-4160-adf7-ec960a23aa1f",
+            "version": [2, 0, 0]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}
