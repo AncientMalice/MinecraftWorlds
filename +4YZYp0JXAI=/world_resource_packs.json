@@ -1,0 +1,35 @@
+
+[
+	
+	{
+		"pack_id" : "a2979f0d-98ac-4bda-8836-4c45c1c0e093",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "3f8f56f1-476c-4e5c-8250-fcc842b5c28f",
+		"subpack" : "Fancy Grass Full",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "87942252-6e37-4658-8635-48f0ce23ba02",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "c1e63b60-0967-4188-ab87-4490c75e08ca",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "e809feb8-822e-4e1d-87ae-7601bb1d9874",
+		"version" : [ 2, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "ccbaaf11-1789-46ec-8f7e-28c35931f66f",
+		"subpack" : "Normal Fog",
+		"version" : [ 2, 2, 0 ]
+	}
+]

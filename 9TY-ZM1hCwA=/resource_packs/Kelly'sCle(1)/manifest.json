@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This removes the vanilla texture on the surface on the water, so you can enjoy some crystal clear water! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §oClear§r §9Water§f Addon",
+        "uuid": "87942252-6e37-4658-8635-48f0ce23ba02",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "df03db93-4ab0-40a2-8cd0-cbf1a171aff8",
+            "version": [2, 0, 0]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}

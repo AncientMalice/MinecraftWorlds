@@ -1,0 +1,38 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A work in progress version of my texture pack.. But with normals instead of height maps!",
+        "name": "Kelly's §l§cR§aT§9X §r§fNormals 2.2 (skin fix)",
+        "uuid": "ccbaaf11-1789-46ec-8f7e-28c35931f66f",
+        "version": [2, 2, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "5d7153c9-e336-42c8-8bca-5f9d25902ec5",
+            "version": [2, 2, 0]
+        }
+	],
+  "subpacks": [
+    {
+      "folder_name": "No Fog",
+      "name": "No Fog",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "Thick Fog",
+      "name": "Thick Fog",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "Normal Fog",
+      "name": "Normal Fog",
+      "memory_tier": 1
+
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}

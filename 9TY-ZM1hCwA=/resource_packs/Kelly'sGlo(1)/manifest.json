@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Don't like the janky wooden planks? Well this pack is just for you! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §oGlossy§r §6Wood§r Addon 2.1.0",
+        "uuid": "c0b78889-04e3-43c2-be79-0b807312c7c1",
+        "version": [2, 1, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "f58d31bd-76a5-44ba-81f9-b40b66a2250f",
+            "version": [2, 1, 0]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}

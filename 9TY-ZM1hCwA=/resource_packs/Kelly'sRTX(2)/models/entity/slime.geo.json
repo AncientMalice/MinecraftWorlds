@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"geometry.slime": {
+		"texturewidth": 64,
+		"textureheight": 32,
+		"visible_bounds_width": 5,
+		"visible_bounds_height": 2,
+		"visible_bounds_offset": [0, 1, 0],
+		"bones": [
+			{
+				"name": "bb_main",
+				"pivot": [0, 0, 0],
+				"cubes": [
+					{"origin": [1.3, 4, -3.5], "size": [2, 2, 0.5], "uv": [34, 6]},
+					{"origin": [0, 2, -3.5], "size": [1, 1, 0.5], "uv": [33, 9]},
+					{"origin": [0, 2, -3], "size": [1, 1, 0.5], "uv": [33, 9]},
+					{"origin": [-3, 1, -3], "size": [6, 6, 6], "uv": [0, 16]},
+					{"origin": [-3.3, 4, -3.5], "size": [2, 2, 0.5], "uv": [34, 2]},
+					{"origin": [-3.3, 4, -3], "size": [0.3, 2, 1.5], "uv": [36, 3]},
+					{"origin": [3, 4, -3], "size": [0.3, 2, 1.5], "uv": [36, 3]},
+					{"origin": [-4, 0, -4], "size": [8, 8, 8], "uv": [0, 0]},
+					{"origin": [-3, 4, -3], "size": [1.7, 2, 1.5], "uv": [35, 4]},
+					{"origin": [1.3, 4, -3], "size": [1.7, 2, 1.5], "uv": [35, 4]}
+				]
+			}
+		]
+	}
+}

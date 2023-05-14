@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This ONLY adds the redstone lamps, but they look differently. Better for modern builds! Add this addon above the main pack! (order does not matter)",
+        "name": "Kelly's §l§eAlternate §r§cRedstone §fLamps Addon",
+        "uuid": "e809feb8-822e-4e1d-87ae-7601bb1d9874",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "8b06dc4e-6ba9-4c70-948a-e65bfc3d8e13",
+            "version": [2, 0, 0]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}
