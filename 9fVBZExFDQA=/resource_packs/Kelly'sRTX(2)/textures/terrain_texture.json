@@ -1,0 +1,65 @@
+{
+   "num_mip_levels" : 0,
+   "padding" : 0,
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+      "mob_spawner" : {
+         "textures" : "textures/blocks/mob_spawner"
+      },
+      "mob_spawner_m" : {
+         "textures" : "textures/blocks/mob_spawner_m"
+      },
+      "amethyst_cluster" : {
+         "textures" : "textures/blocks/amethyst_cluster"
+      },
+      "amethyst_cluster_m" : {
+         "textures" : "textures/blocks/amethyst_cluster_m"
+      },
+      "large_amethyst_bud" : {
+         "textures" : "textures/blocks/large_amethyst_bud"
+      },
+      "large_amethyst_bud_m" : {
+         "textures" : "textures/blocks/large_amethyst_bud_m"
+      },
+      "medium_amethyst_bud" : {
+         "textures" : "textures/blocks/medium_amethyst_bud"
+      },
+      "medium_amethyst_bud_m" : {
+         "textures" : "textures/blocks/medium_amethyst_bud_m"
+      },
+      "small_amethyst_bud" : {
+         "textures" : "textures/blocks/small_amethyst_bud"
+      },
+      "small_amethyst_bud_m" : {
+         "textures" : "textures/blocks/small_amethyst_bud_m"
+      },
+      "crimson_fungus" : {
+         "textures" : "textures/blocks/crimson_fungus"
+      },
+      "crimson_fungus_m" : {
+         "textures" : "textures/blocks/crimson_fungus_m"
+      },
+      "warped_fungus" : {
+         "textures" : "textures/blocks/warped_fungus"
+      },
+      "warped_fungus_m" : {
+         "textures" : "textures/blocks/warped_fungus_m"
+      },
+      "soul_torch" : {
+         "textures" : "textures/blocks/soul_torch"
+      },
+      "soul_torch_m" : {
+         "textures" : "textures/blocks/soul_torch_m"
+      },
+      "glow_lichen" : {
+         "textures" : "textures/blocks/glow_lichen"
+      },
+      "glow_lichen_m" : {
+         "textures" : "textures/blocks/glow_lichen_m"
+         
+   },
+   "texture_name" : "atlas.terrain"
+  }
+ }
+
+
