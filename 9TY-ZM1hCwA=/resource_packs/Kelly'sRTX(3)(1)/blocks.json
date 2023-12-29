@@ -1,0 +1,15 @@
+{
+  "format_version": "1.1.0",
+   "chiseled_bookshelf" : {
+      "sound" : "chiseled_bookshelf",
+      "textures" : {
+         "down" : "chiseled_bookshelf_top",
+         "east" : "chiseled_bookshelf_side",
+         "north" : "chiseled_bookshelf_front",
+         "south" : "chiseled_bookshelf_side",
+         "up" : "chiseled_bookshelf_top",
+         "west" : "chiseled_bookshelf_side"
+      },
+      "blockshape": "block"
+   }
+}
